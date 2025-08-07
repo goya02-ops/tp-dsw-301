@@ -16,11 +16,11 @@
 *Plataforma de simracing competitivo que conecta a pilotos virtuales con eventos organizados en distintos simuladores. Permite crear, gestionar e inscribirse a carreras, llevar un historial de resultados. Su objetivo es profesionalizar la experiencia del automovilismo virtual, combinando tecnología, comunidad y competitividad.*
 
 ### Modelo de dominio
-<img width="791" height="955" alt="ModeloDominio" src="https://github.com/user-attachments/assets/dc45d07b-98f8-40e8-bb37-e97abf0cbbe0" />
+<img width="791" height="955" alt="ModeloDominio" src="https://github.com/user-attachments/assets/dc45d07b-98f8-40e8-bb37-e97abf0cbbe0" /><br>
 Enlace a Draw IO: https://drive.google.com/file/d/1r72gW-qDQekjdE1gyDHyM7gbv3EYp8JS/view?usp=sharing
 
 ### Diagrama de Entidad - Relación
-<img width="1165" height="1247" alt="DER - MyRacing" src="https://github.com/user-attachments/assets/f18a4508-21f6-48c5-b2f2-fa6326c2220a" />
+<img width="1165" height="1247" alt="DER - MyRacing" src="https://github.com/user-attachments/assets/f18a4508-21f6-48c5-b2f2-fa6326c2220a" /><br>
 Enlace a Draw IO: https://drive.google.com/file/d/1NLlt48m_9nrwYKXjhb4iLp0q-1TZbcka/view?usp=sharing
 
 ## Alcance Funcional 
